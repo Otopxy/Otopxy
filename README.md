@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Otopxy
-- 👀 I do anything and everything in software development and all in Blockchain.
+- 👀 I love software development.
+- I love trying new things.
 - 🌱 I’m fond of fullstack software development
-- 💞️ I’m ready to collaborate on projects
+- 💞️ I’m ready to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/temidolajide/
 
 <!---
